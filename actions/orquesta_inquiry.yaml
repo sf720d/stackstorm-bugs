@@ -1,0 +1,6 @@
+---
+name: orquesta_inqury
+description: testing inquiry timeout in orquesta workflow
+runner_type: orquesta
+entry_point: workflows/orquesta_inqury.yaml
+enabled: true
